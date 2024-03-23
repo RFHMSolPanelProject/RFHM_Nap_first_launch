@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sol_server_api.props" />
+</Project>
